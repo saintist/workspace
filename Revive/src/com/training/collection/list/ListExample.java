@@ -13,6 +13,7 @@ public class ListExample {
 		listStrings.add("Two");
 		listStrings.add("Three");
 		listStrings.add("Four");
+		listStrings.add("Five");
 		System.out.println("\t" + listStrings);
 		System.out.println("end showArrayList()");
 	}
