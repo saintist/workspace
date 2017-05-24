@@ -26,7 +26,7 @@ public class LambdaDemo {
 			System.out.println("i :" + integer);
 		}		
 		values.forEach(action -> { 
-			System.out.println("i :" + action);   
+			//System.out.println("i :" + action);   
 			System.out.println(" value[ "+action+" ]");
 		
 		});
